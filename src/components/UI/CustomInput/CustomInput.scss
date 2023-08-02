@@ -1,0 +1,16 @@
+.wrapper-input {
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+
+  input {
+    background-color: transparent;
+    outline: none;
+    border: none;
+    box-shadow: 0 0 3px black;
+    border-radius: 5px;
+    height: 35px;
+    color: lightgray;
+    padding-left: 10px;
+  }
+}
